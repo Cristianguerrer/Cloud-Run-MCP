@@ -42,6 +42,8 @@ Configurar proyecto por defecto:
 gcloud config set project <ID_PROYECTO>
 ```
 
+![alt text](image.png)
+
 ### Ejecutar con NPX
 
 ```bash
